@@ -1,0 +1,48 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\李鑫\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\mooc-craw\com.python.pydev.analysis\v2_indexcache
+baike.html_outputer|1468309014963236000|C:\Users\李鑫\workspace\mooc-craw\baike\html_outputer.py
+baike.html_parser|1468309681226891000|C:\Users\李鑫\workspace\mooc-craw\baike\html_parser.py
+baike.html_downloader|1468309014881231000|C:\Users\李鑫\workspace\mooc-craw\baike\html_downloader.py
+baike.spider_main|1468309014539211000|C:\Users\李鑫\workspace\mooc-craw\baike\spider_main.py
+baike.__init__|1468296690632897000|C:\Users\李鑫\workspace\mooc-craw\baike\__init__.py
+baike.url_manager|1468309014654219000|C:\Users\李鑫\workspace\mooc-craw\baike\url_manager.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+3=baike.html_outputer
+2=baike.html_parser
+7=SpiderMain
+12=HtmlParser
+1=baike.html_downloader
+4=baike.spider_main
+6=UrlManager
+10=SpiderMain.__init__
+11=UrlManager.__init__
+9=HtmlDownloader
+8=HtmlOutputer
+5=baike.url_manager
+-- END DICTIONARY
+-- START TREE 1
+5
+htm|3|HtmlDownloader!9@HtmlParser!17@HtmlOutputer!25@
+obj|1|obj_spider!35@
+roo|1|root_url!35@
+spi|1|SpiderMain!33@
+url|1|UrlManager!41@
+-- END TREE
+-- START TREE 2
+12
+__i|2|__init__!6&42@__init__!7&34@
+add|2|add_new_url!6&42@add_new_urls!6&42@
+col|1|collect_data!8&26@
+cra|1|craw!7&34@
+dow|2|download!9&10@downloader!10&35@
+get|1|get_new_url!6&42@
+has|1|has_new_url!6&42@
+new|1|new_urls!11&43@
+old|1|old_urls!11&43@
+out|2|outputer!10&35@output_html!8&26@
+par|2|parser!10&35@parse!12&18@
+url|1|urls!10&35@
+-- END TREE
